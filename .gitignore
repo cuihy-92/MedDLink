@@ -172,7 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-./
+./*
 !./.gitignore
 !./LICENSE
 !./README.md
