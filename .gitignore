@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+MedDLink/
+!MedDLink/.gitignore
+!MedDLink/LICENSE
+!MedDLink/README.md
